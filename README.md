@@ -16,7 +16,7 @@ Pyshell is a beginner-friendly Python command-line utility (CUI) designed to hel
 
 
 ## Intsallation
-- git clone https://github.com/PrAtHaM161602/Pyshell
+- git clone https://github.com/PrAtHaM161602/Pyshell.git
 - cd Pyshell
 - pip install -r requirements.txt
 
